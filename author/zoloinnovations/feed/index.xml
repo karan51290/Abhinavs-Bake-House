@@ -9,8 +9,8 @@
 
 <channel>
 	<title>zoloinnovations &#8211; Abhinavs Bake House by Miglanis</title>
-	<atom:link href="/author/zoloinnovations/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://abhinavsbakehouse.miglanis.in/author/zoloinnovations/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abhinavsbakehouse.miglanis.in/</link>
 	<description></description>
 	<lastBuildDate>Wed, 07 Feb 2024 10:18:31 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://abhinavsbakehouse.miglanis.in/hello-world/</link>
+					<comments>https://abhinavsbakehouse.miglanis.in/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[zoloinnovations]]></dc:creator>
 		<pubDate>Wed, 07 Feb 2024 10:18:31 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://abhinavsbakehouse.miglanis.in/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://abhinavsbakehouse.miglanis.in/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
